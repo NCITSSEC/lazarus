@@ -279,3 +279,5 @@ filename,sha256,tags,Report_link
 "0b94350da085d818c6a7095ebd73c88c12462c85bfc15438312153b17914649c","0b94350da085d818c6a7095ebd73c88c12462c85bfc15438312153b17914649c","Lazarus,py","https://bazaar.abuse.ch/sample/0b94350da085d818c6a7095ebd73c88c12462c85bfc15438312153b17914649c/"
 "brow8_84.py","c3cb53c4a290bc9ab6c9eb825ed0ca38bb54bcc4a59f33be72becdff80cb091b","144-172-95-226,Lazarus,py","https://bazaar.abuse.ch/sample/c3cb53c4a290bc9ab6c9eb825ed0ca38bb54bcc4a59f33be72becdff80cb091b/"
 "pay8_84.py","db104bbd667696d769eba51d9e9ad7aed80c5c0cf8cdb1fb5e1ae9fff120dd23","144-172-95-226,Lazarus,py","https://bazaar.abuse.ch/sample/db104bbd667696d769eba51d9e9ad7aed80c5c0cf8cdb1fb5e1ae9fff120dd23/"
+"brow8_84.py","c3cb53c4a290bc9ab6c9eb825ed0ca38bb54bcc4a59f33be72becdff80cb091b","144-172-95-226,Lazarus,py","https://bazaar.abuse.ch/sample/c3cb53c4a290bc9ab6c9eb825ed0ca38bb54bcc4a59f33be72becdff80cb091b/"
+"pay8_84.py","db104bbd667696d769eba51d9e9ad7aed80c5c0cf8cdb1fb5e1ae9fff120dd23","144-172-95-226,Lazarus,py","https://bazaar.abuse.ch/sample/db104bbd667696d769eba51d9e9ad7aed80c5c0cf8cdb1fb5e1ae9fff120dd23/"
