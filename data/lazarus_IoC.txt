@@ -292,3 +292,4 @@ filename,sha256,tags,Report_link
 "1LjZuMG417jNuMy4hbiPuIi4iriIuA.zip","14213c013d79ea4bc8309f730e26d52ff23c10654197b8d2d10c82bbbcd88382","apt,doc,hiremployee-com,Lazarus","https://bazaar.abuse.ch/sample/14213c013d79ea4bc8309f730e26d52ff23c10654197b8d2d10c82bbbcd88382/"
 "y7jduMy4zLjRuNa437iFuIu4jriOuA.zip","b357b3882cf8107b1cb59015c4be3e0b8b4de80fd7b80ce3cd05081cd3f6a8ff","apt,doc,hiremployee-com,Lazarus","https://bazaar.abuse.ch/sample/b357b3882cf8107b1cb59015c4be3e0b8b4de80fd7b80ce3cd05081cd3f6a8ff/"
 "250908_A_HK이노션_SecuwaySSL VPN Manager U100S 100user_견적서.scr","e19ce3bd1cbd980082d3c55a4ac1eb3af4d9e7adf108afb1861372f9c7fe0b76","apt,exe,Lazarus,signed","https://bazaar.abuse.ch/sample/e19ce3bd1cbd980082d3c55a4ac1eb3af4d9e7adf108afb1861372f9c7fe0b76/"
+"npm-vulnerability.js","2ddef03b28d0a898637b2fe1c6a325db66bc306c1b6acded9df5a5583e57e106","js,Lazarus","https://bazaar.abuse.ch/sample/2ddef03b28d0a898637b2fe1c6a325db66bc306c1b6acded9df5a5583e57e106/"
