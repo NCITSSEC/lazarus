@@ -314,3 +314,4 @@ filename,sha256,tags,Report_link
 "libmupdf.dll","ec5d14ca011ba8c12f4d51b0d463cf51051feaf1655c7f709dce3ffa625dfcf6","apt,exe,Lazarus","https://bazaar.abuse.ch/sample/ec5d14ca011ba8c12f4d51b0d463cf51051feaf1655c7f709dce3ffa625dfcf6/"
 "6f9b79c20330a7c8ade8285866e5602bb86b50a817205ee3c8a466101193386d","6f9b79c20330a7c8ade8285866e5602bb86b50a817205ee3c8a466101193386d","CookiePlus,exe,Lazarus","https://bazaar.abuse.ch/sample/6f9b79c20330a7c8ade8285866e5602bb86b50a817205ee3c8a466101193386d/"
 "f9a9c1a13ed74aebca0652b102755833fc084e221d731b5e7ae76ff136f85864","f9a9c1a13ed74aebca0652b102755833fc084e221d731b5e7ae76ff136f85864","CookiePlus,exe,Lazarus","https://bazaar.abuse.ch/sample/f9a9c1a13ed74aebca0652b102755833fc084e221d731b5e7ae76ff136f85864/"
+"TSMSISrv.dll","aeebcd8c8b15645d7e71b68ac05e21e9a4c94f832c64044725d870b87b9573c7","apt,exe,Lazarus","https://bazaar.abuse.ch/sample/aeebcd8c8b15645d7e71b68ac05e21e9a4c94f832c64044725d870b87b9573c7/"
