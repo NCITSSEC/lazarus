@@ -315,3 +315,4 @@ filename,sha256,tags,Report_link
 "6f9b79c20330a7c8ade8285866e5602bb86b50a817205ee3c8a466101193386d","6f9b79c20330a7c8ade8285866e5602bb86b50a817205ee3c8a466101193386d","CookiePlus,exe,Lazarus","https://bazaar.abuse.ch/sample/6f9b79c20330a7c8ade8285866e5602bb86b50a817205ee3c8a466101193386d/"
 "f9a9c1a13ed74aebca0652b102755833fc084e221d731b5e7ae76ff136f85864","f9a9c1a13ed74aebca0652b102755833fc084e221d731b5e7ae76ff136f85864","CookiePlus,exe,Lazarus","https://bazaar.abuse.ch/sample/f9a9c1a13ed74aebca0652b102755833fc084e221d731b5e7ae76ff136f85864/"
 "TSMSISrv.dll","aeebcd8c8b15645d7e71b68ac05e21e9a4c94f832c64044725d870b87b9573c7","apt,exe,Lazarus","https://bazaar.abuse.ch/sample/aeebcd8c8b15645d7e71b68ac05e21e9a4c94f832c64044725d870b87b9573c7/"
+"gaze.exe","15208030eda48b3786f7d85d756d2bd6596ef0f465d9c8509a8f02c53fad9a10","apt,exe,Lazarus,Medusa","https://bazaar.abuse.ch/sample/15208030eda48b3786f7d85d756d2bd6596ef0f465d9c8509a8f02c53fad9a10/"
