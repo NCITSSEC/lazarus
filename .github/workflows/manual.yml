@@ -47,10 +47,8 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        # 파이썬 스크립트 자체를 저장소에 백업하도록 추가
-        cp lazarus-automation.py backup_lazarus_automation.py
-        git add backup_lazarus_automation.py
-        git commit -m "백업: lazarus 코드 추출"
+        git add data/lazarus_IoC.txt
+        git commit -m "자동 업데이트: lazarus IOC 데이터 갱신" || exit 0
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
