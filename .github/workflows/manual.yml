@@ -64,6 +64,6 @@ jobs:
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
         subject: "[GitHub Actions] Lazarus IoC 수집 결과 보고"
-        to: lwh3632@ncits.co.kr
+        to: ${{ secrets.TO_MAIL }}
         from: "Lazarus IoC Bot <${{ secrets.MAIL_USERNAME }}>"
         html_body: file://email.html
